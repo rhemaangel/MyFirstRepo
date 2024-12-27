@@ -5,6 +5,7 @@ public class Main {
       StringJoiner joining= new StringJoiner(";" ,"{" , "}");
       joining.add("rhema");
       joining.add("riya");
+joining.add("dolly");
       System.out.println(joining);
   }
 }
